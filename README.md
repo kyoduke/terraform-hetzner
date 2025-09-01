@@ -1,5 +1,11 @@
 # Usage
 
+Go into terraform directory
+
+```bash
+cd terraform/
+```
+
 Create the tfvars from the example file
 ```bash
 cp terraform.auto.tfvars.example terraform.auto.tfvars
